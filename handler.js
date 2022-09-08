@@ -31,18 +31,18 @@ module.exports = {
         global.img = 'https://telegra.ph/file/dffdaf0e8d59ad104e526.jpg'
         global.fla = pickRandom(global.flaaa)
         global.namabot = conn.user.name
-        global.packname = '© RaaBotz-MD'
-        global.author = 'Made By Claraa © 2022'
+        global.packname = '© wanzzBotz-MD'
+        global.author = 'Made By kontol© 2022'
         global.packname2 = 'Made With'
-        global.author2 = 'Raa Bot By Claraa © 2022'
-        global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By Claraa˚'
-        global.wm2 = '©𝙍𝙖𝙖-𝘽𝙤𝙩𝙯-𝙈𝘿' + ' ' + 'By 𝐂𝐥𝐚𝐫𝐚𝐚'
-        global.wm = '© 𝙍𝙖𝙖-𝘽𝙤𝙩𝙯--𝙈𝘿'
+        global.author2 = 'Raa Bot By wanzz © 2022'
+        global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By Cwanzz˚'
+        global.wm2 = '©wanzz-𝘽𝙤𝙩𝙯-𝙈𝘿' + ' ' + 'By 𝐂𝐥𝐚𝐫𝐚𝐚'
+        global.wm = '© wanzz-𝘽𝙤𝙩𝙯--𝙈𝘿'
         global.colong1 = 'Ciss 📸'
         global.colong2 = 'By Claraa'
         global.kontak2 = [
-        ['62895604670507', 'Claraa', 'Creator Bot', 'Clarz939@support.com', true],
-        ['79217628068', 'Raa Botz-MD', 'Bot WhatsApp', 'Just Bot', true]
+        ['6283181341902', 'Claraa', 'Creator Bot', 'Clarz939@support.com', true],
+        ['628818172681', 'p Botz-MD', 'Bot WhatsApp', 'Just Bot', true]
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
